@@ -8,7 +8,7 @@
 - I really enjoy coding 👩‍💻, traveling, watching ,soccer 
 - I'm currently majoring in software engineering.
 - I'm open to working with and collaborating on any project that uses the tools mentioned below.
-- You can contact me via abelgebeyehu101@gmail.com.
+- You can contact me via birungilyn@gmail.com
 - 📍 I'm based in   Kampala, Uganda
 - ⚡ Fun fact **Am a young lady in Technology.**
 
