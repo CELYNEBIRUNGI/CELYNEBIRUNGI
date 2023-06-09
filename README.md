@@ -28,12 +28,15 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CELYNEBIRUNGIlayout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username= CELYNEBIRUNGI&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=CELYNEBIRUNGI&theme=gotham)](https://github.com/AbelG101/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Evelyne CELYNEBIRUNGI&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CELYNEBIRUNGI&theme=gotham)](https://git.io/streak-stats)
+
+
+
+
 
 
 
