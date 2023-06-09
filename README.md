@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Evelyne Celyne Birungi</h1>
-<h3 align="center">I'm a junior software engineer and an aspiring full-stack web developer.</h3>  
+<h3 align="center">I'm a junior full-stack web developerand an aspiring Software Engineer.</h3>  
 
 
 - Welcome to my account, feel free to check out any projects I've been working on.
