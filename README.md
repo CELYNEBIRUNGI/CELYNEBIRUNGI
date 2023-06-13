@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,Evelyne Celyne Birungi</h1>
 <h2 align="center">Full-stack web developer</h2>
-<p><img align="right" src="animation" alt="CELYNEBIRUNGI" width="400"/></p>
+<p><img align="right" src="./animation(2).gif" alt="CELYNEBIRUNGI" width="400"/></p>
 
 <br>
 
