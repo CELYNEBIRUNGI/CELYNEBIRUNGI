@@ -60,7 +60,16 @@ Hello, my name is Evelyne Celyne Birungi, I am a Full-stack web developer, and d
 
 <h3>Statistical Data :</h3>
 
- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="CELYNEBIRUNGI" /></p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CELYNEBIRUNGI&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=CELYNEBIRUNGI&theme=gotham)](https://github.com/AbelG101/github-readme-activity-graph)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CELYNEBIRUNGI&theme=gotham)](https://git.io/streak-stats)
+
 
 
     
