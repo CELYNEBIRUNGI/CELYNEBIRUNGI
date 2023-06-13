@@ -22,7 +22,7 @@ Hello, my name is Evelyne Celyne Birungi, I am a Full-stack web developer, and d
 
 ## 📫 &nbsp;Connect with me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Marco_Díaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-diaz-0876a7268/)](https://www.linkedin.com/in/evelyne-celyne-birungi-7b3178164/)
+
 [![Gmail Badge](https://img.shields.io/badge/-md.birungilyn@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:md.birungilyn@gmail.com)
 
 <br>
@@ -59,12 +59,9 @@ Hello, my name is Evelyne Celyne Birungi, I am a Full-stack web developer, and d
 <br>
 
 <h3>Statistical Data :</h3>
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CELYNEBIRUNGI&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="MarcoDiaz2000" bg_color=#808080/></p>
 
-<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="MarcoDiaz2000" /></p> -->
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CELYNEBIRUNGI&show_icons=true&locale=en&layout=compact" alt="CELYNEBIRUNGI" /></p>
+ <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="CELYNEBIRUNGI" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CELYNEBIRUNGI&show_icons=true&locale=en" alt="CELYNEBIRUNGI" /></p>
+
     
     
