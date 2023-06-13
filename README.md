@@ -22,7 +22,13 @@ Hello, my name is Evelyne Celyne Birungi, I am a Full-stack web developer, and d
 ## 📫 &nbsp;Connect with me:
 
 
-[![Gmail Badge](https://img.shields.io/badge/-md.birungilyn@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:md.birungilyn@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/evelyne-celyne-birungi-7b3178164/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:birungilyn@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 <br>
 
