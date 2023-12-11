@@ -13,7 +13,7 @@ Hi 👋,Evelyne Celyne Birungi, the web developer</h1>
 
 Hello, my name is Evelyne Celyne Birungi, I am a Full-stack web developer, and digital marketing specialist and passionate about turning imagination into reality, and my biggest goal in life is to use software engineering to help people and organizations change the world in a positive way.
 
-- 📚 Full-Stack Web Developer
+- 📚  Web Developer & UI/ux designer
 - 🌱 I’m currently learning Web Development and other programming languages.
 - 👀 I’m interested in Learning new things in the Tech-world.
 - 💞️ i enjoy building projects.
